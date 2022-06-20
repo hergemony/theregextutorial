@@ -17,7 +17,5 @@ https://gist.github.com/justy/1039374
 
 
 
-# Questions
-Any questions please email hergemony@gmail.com
 
 ❤ Hergemony™ Digital Services 2022 ❤
