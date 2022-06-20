@@ -9,7 +9,8 @@ A regular expression is a group of characters or symbols which is used to find a
 1) To create a Gist, log into github, and go to gist.github.com
 2) Once created, you can make the Gist files public and create the link:
 
-https://gist.github.com/hergemony/1563c61955f1d033bc5ef44220db0706.js
+ https://gist.github.com/hergemony/1563c61955f1d033bc5ef44220db0706
+ 
 
 
 # Credits
